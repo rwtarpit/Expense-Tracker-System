@@ -1,0 +1,114 @@
+2024-12-30 20:54:00,780 - db_helper - INFO - data_by_date called with 2024-08-02
+2024-12-31 01:00:13,735 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 5))
+2024-12-31 01:03:07,048 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 5))
+2024-12-31 01:27:02,217 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 5))
+2024-12-31 01:27:45,927 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 5))
+2024-12-31 02:15:36,595 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 2), datetime.date(2024, 8, 15))
+2024-12-31 02:26:16,616 - db_helper - INFO - data_btw_date called with ('2024-08-01', '2024-08-15')
+2024-12-31 02:26:16,643 - db_helper - INFO - data_btw_date called with ('2024-08-01', '2024-08-15')
+2024-12-31 02:46:48,610 - db_helper - INFO - data_btw_date called with ('2024-08-01', '2024-08-15')
+2024-12-31 02:47:38,672 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 02:50:01,080 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 02:50:12,130 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 02:50:26,065 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 02:50:31,609 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 02:50:35,689 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 02:50:37,826 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 10), datetime.date(2024, 8, 15))
+2024-12-31 02:55:33,711 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 2), datetime.date(2024, 8, 15))
+2024-12-31 03:00:18,985 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:00:25,471 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:00:27,600 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 10), datetime.date(2024, 8, 15))
+2024-12-31 03:01:24,194 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:01:27,879 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:01:30,012 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 10), datetime.date(2024, 8, 15))
+2024-12-31 03:04:46,042 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:04:52,481 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:04:53,848 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:04:55,944 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 10))
+2024-12-31 03:05:18,474 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:05:21,140 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:05:22,980 - db_helper - INFO - data_by_date called with 2024-08-03
+2024-12-31 03:05:25,083 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 10), datetime.date(2024, 8, 15))
+2024-12-31 03:05:36,731 - db_helper - INFO - data_by_date called with 2024-08-12
+2024-12-31 03:06:29,547 - db_helper - INFO - data_by_date called with 2024-08-12
+2024-12-31 03:06:31,645 - db_helper - INFO - delete_data called with 2024-08-12
+2024-12-31 03:06:31,717 - db_helper - INFO - enterdata called with (datetime.date(2024, 8, 12), 500.0, 'Shopping', 'bought a book')
+2024-12-31 03:06:31,786 - db_helper - INFO - enterdata called with (datetime.date(2024, 8, 12), 200.0, 'Food', 'chicken and rice')
+2024-12-31 12:55:02,838 - db_helper - INFO - data_btw_date called with ('2024-08-01', '2024-08-15')
+2024-12-31 12:55:34,688 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 12:55:46,035 - db_helper - INFO - data_by_date called with 2024-08-04
+2024-12-31 12:55:55,701 - db_helper - INFO - data_by_date called with 2024-08-04
+2024-12-31 12:55:57,804 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 5))
+2024-12-31 13:00:50,718 - db_helper - INFO - data_btw_date called with ('2024-08-01', '2024-08-15')
+2024-12-31 13:05:35,798 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:05:43,308 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:07:47,191 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:07:53,522 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:08:48,020 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:08:55,854 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:13:04,352 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:13:12,649 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:13:14,005 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:16:48,853 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 2), datetime.date(2024, 8, 10))
+2024-12-31 13:17:08,349 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 10))
+2024-12-31 13:17:35,765 - db_helper - INFO - data_btw_date called with ('2024-08-01', '2024-08-15')
+2024-12-31 13:19:53,910 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 10))
+2024-12-31 13:20:06,514 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 2), datetime.date(2024, 8, 10))
+2024-12-31 13:20:14,394 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 5), datetime.date(2024, 8, 10))
+2024-12-31 13:20:23,350 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 5), datetime.date(2024, 8, 20))
+2024-12-31 13:20:24,945 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 5), datetime.date(2024, 8, 20))
+2024-12-31 13:20:32,387 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 5), datetime.date(2024, 9, 20))
+2024-12-31 13:22:40,503 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:22:41,621 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:22:43,707 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 4))
+2024-12-31 13:22:59,174 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:23:05,206 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 13:23:07,321 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 9, 11))
+2024-12-31 13:49:25,471 - db_helper - INFO - get_data() called
+2024-12-31 13:53:29,125 - db_helper - INFO - get_data() called
+2024-12-31 14:06:22,127 - db_helper - INFO - get_data() called
+2024-12-31 14:14:01,617 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 14:15:18,998 - db_helper - INFO - get_data() called
+2024-12-31 14:27:56,039 - db_helper - INFO - get_data() called
+2024-12-31 14:27:58,395 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 14:30:59,937 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 14:33:56,537 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 14:55:08,648 - db_helper - INFO - get_monthlydata() called
+2024-12-31 14:56:18,183 - db_helper - INFO - get_monthlydata() called
+2024-12-31 15:01:07,665 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:02:56,671 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:03:13,891 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:03:17,525 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:39:33,222 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:39:53,847 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:41:38,025 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:41:46,604 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:41:47,714 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:41:49,837 - db_helper - INFO - get_monthlydata() called
+2024-12-31 15:52:55,147 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:53:03,621 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 15:53:05,747 - db_helper - INFO - get_monthlydata() called
+2024-12-31 16:05:24,447 - db_helper - INFO - get_monthlydata() called
+2024-12-31 16:10:16,938 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:10:25,725 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:10:27,872 - db_helper - INFO - get_monthlydata() called
+2024-12-31 16:14:04,882 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:14:08,726 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:14:10,837 - db_helper - INFO - get_monthlydata() called
+2024-12-31 16:17:25,347 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:17:29,868 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:17:32,000 - db_helper - INFO - get_monthlydata() called
+2024-12-31 16:18:07,528 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:18:11,749 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:18:13,883 - db_helper - INFO - get_monthlydata() called
+2024-12-31 16:30:25,819 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 16:30:27,955 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 5))
+2024-12-31 17:54:13,141 - db_helper - INFO - data_by_date called with 2024-08-01
+2024-12-31 17:54:27,100 - db_helper - INFO - data_by_date called with 2024-08-15
+2024-12-31 17:54:30,267 - db_helper - INFO - data_by_date called with 2024-08-15
+2024-12-31 17:54:55,255 - db_helper - INFO - data_by_date called with 2024-08-15
+2024-12-31 17:54:57,385 - db_helper - INFO - delete_data called with 2024-08-15
+2024-12-31 17:54:57,492 - db_helper - INFO - enterdata called with (datetime.date(2024, 8, 15), 10.0, 'Shopping', 'Bought potatoes')
+2024-12-31 17:54:57,566 - db_helper - INFO - enterdata called with (datetime.date(2024, 8, 15), 6800.0, 'Food', 'dinner in hotel')
+2024-12-31 17:55:10,314 - db_helper - INFO - data_by_date called with 2024-08-04
+2024-12-31 17:55:19,644 - db_helper - INFO - data_by_date called with 2024-08-15
