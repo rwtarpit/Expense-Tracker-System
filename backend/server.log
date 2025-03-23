@@ -112,3 +112,9 @@
 2024-12-31 17:54:57,566 - db_helper - INFO - enterdata called with (datetime.date(2024, 8, 15), 6800.0, 'Food', 'dinner in hotel')
 2024-12-31 17:55:10,314 - db_helper - INFO - data_by_date called with 2024-08-04
 2024-12-31 17:55:19,644 - db_helper - INFO - data_by_date called with 2024-08-15
+2025-01-05 11:54:30,264 - db_helper - INFO - data_by_date called with 2024-08-01
+2025-01-05 11:55:05,732 - db_helper - INFO - data_by_date called with 2025-01-05
+2025-01-05 11:55:27,402 - db_helper - INFO - data_by_date called with 2025-01-05
+2025-01-05 11:55:29,559 - db_helper - INFO - data_btw_date called with (datetime.date(2024, 8, 1), datetime.date(2024, 8, 5))
+2025-01-05 11:56:09,301 - db_helper - INFO - data_by_date called with 2025-01-05
+2025-01-05 11:56:11,551 - db_helper - INFO - get_monthlydata() called
